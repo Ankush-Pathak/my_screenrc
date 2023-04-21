@@ -11,3 +11,4 @@ windowlist string "%4n %h%=%f"
 
 # Indicate 256 color screen
 term screen-256color
+defscrollback 10000
